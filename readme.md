@@ -168,7 +168,7 @@ Creating additional features does not necessarily introduce new predictive infor
 
 Unusual observations should be investigated before deciding whether to transform or exclude them.
 
-11. Conclusion
+7. Conclusion
 
 Logistic Regression achieved approximately 75% accuracy and performed slightly better than the other tested algorithms.
 
@@ -188,3 +188,11 @@ The dataset's representativeness and suitability for real-world predictions have
 
 Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost
 
+## Target Feature
+![Target Feature](images\target_feature.png)
+
+## Confusion Matrix of Logistic Regression
+![Target Feature](images\confusion_matrix_lr.png)
+
+## Model Comparison of Cross Validation
+![Target Feature](images\cross_validation.png)
